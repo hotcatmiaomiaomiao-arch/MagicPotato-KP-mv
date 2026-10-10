@@ -1,0 +1,11 @@
+node_modules/
+out/
+tmp/
+# copyrighted material – keep local only
+assets/
+src/lyrics.js
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.lrc
